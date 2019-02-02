@@ -43,4 +43,4 @@ Stop Torch mode using below code:
 
 Please feel free to download and give a try.
 
-You can see fully functioning FlashLight application using above code in XXX.
+You can see fully functioning FlashLight application using above code in https://play.google.com/store/apps/details?id=in.kiran.flashlight.
