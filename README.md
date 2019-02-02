@@ -4,6 +4,8 @@ FlashLight Demo using Camera 2 api.
 
 This sample code explain how to use Camera 2 api to set Torch mode.
 
+[![Watch the video](https://lh3.googleusercontent.com/LuTzTY9_xNeGg7FjUn6XOKsBcNYGDaE12ti54olgQg49rkJfNSCOesqdzqsDiSVo72kX=s360)](https://www.youtube.com/watch?v=7yBXJE6eiKQ)
+
 Start Torch mode using below code:
 ```
     private static boolean flashLightOn(Context context) {
