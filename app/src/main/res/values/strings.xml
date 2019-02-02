@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlashLight Demo</string>
+
+    <string name="flash_not_supported">Flashlight is not supported!</string>
+    <string name="no_flash_available">No flash available on your device!</string>
+    <string name="no_camera_permission">No camera permission!</string>
+</resources>
